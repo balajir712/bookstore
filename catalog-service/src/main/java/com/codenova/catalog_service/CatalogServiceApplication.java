@@ -10,4 +10,5 @@ public class CatalogServiceApplication {
 		SpringApplication.run(CatalogServiceApplication.class, args);
 	}
 
+	//This is the main class for the Catalog Service application. It uses the @SpringBootApplication annotation to indicate that it is a Spring Boot application. The main method starts the application by calling SpringApplication.run() with the CatalogServiceApplication class and the command-line arguments.
 }
